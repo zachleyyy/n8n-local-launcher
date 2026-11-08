@@ -1,0 +1,14 @@
+node_modules/
+runtime/
+data/
+.n8n/
+logs/
+backups/
+.env
+.env.*
+*.sqlite*
+*.db
+*.zip
+*.log
+*.pid
+install*.json
